@@ -1,0 +1,30 @@
+
+	#define TXT_HODINY				"Clock"
+	#define TXT_CENA			  	"Fuel price"
+  	#define TXT_SERVIS_Z	  			"Service left"
+	#define TXT_SERVIS_I	  			"Service int."
+	#define TXT_FARBY			  	"Colours"
+	#define TXT_TEXT			  	"Text"
+	#define TXT_PODKLAD		  		"Bckgrnd" - Background colour
+	#define TXT_PODSVIETENIE 			"Illumination"
+	#define TXT_MIN				 	"Min"
+	#define TXT_MAX				 	"Max"
+	#define TXT_VALCE				"Nr. of cylinders"
+	#define TXT_VSTREKOVAC				"Injector"
+	#define TXT_KOLESA				"Tyres"
+	#define TXT_CIDLO				"Speed senzor"
+	#define TXT_NAKLON				"Heeling"
+	#define TXT_CAS				  	"Time:"
+	#define TXT_ZRYCHLENIE  			"Acceleration 0 to"
+	#define TXT_POCETMENUBC				"Nr. of BC screen"	
+	#define TXT_MAX_DOBA				"Safety break"
+	#define TXT_OTACKY				"RPM"
+	#define TXT_DLZKA_VSTREKU			"Injector time"
+	#define TXT_OBR_ZRYCHLENIE 			"Scr.acceleration" - acceleration screen
+	#define TXT_OBR_PRETAZENIE 			"Scr. G" - G-force screen
+	#define TXT_OBR_MOTOR 				"Scr.engine" - Engine screen
+	#define TXT_OFF					"OFF"
+	#define TXT_ON					" ON"
+	#define TXT_J					"A" - Actual drive
+	#define TXT_C					"O" - Overall data
+
