@@ -1,0 +1,1613 @@
+Archive member included because of file (symbol)
+
+c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/avr5\libgcc.a(_mulsi3.o)
+                              int_ee.o (__mulsi3)
+c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/avr5\libgcc.a(_udivmodhi4.o)
+                              int_ee.o (__udivmodhi4)
+c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/avr5\libgcc.a(_divmodhi4.o)
+                              meranie_nadrze.o (__divmodhi4)
+c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/avr5\libgcc.a(_udivmodsi4.o)
+                              main.o (__udivmodsi4)
+c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/avr5\libgcc.a(_divmodsi4.o)
+                              int_ee.o (__divmodsi4)
+c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/avr5\libgcc.a(_exit.o)
+                              c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/../../../../avr/lib/avr5/crtm644p.o (exit)
+c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/avr5\libgcc.a(_copy_data.o)
+                              main.o (__do_copy_data)
+c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/avr5\libgcc.a(_clear_bss.o)
+                              main.o (__do_clear_bss)
+c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/avr5\libgcc.a(_fixunssfsi.o)
+                              main.o (__fixunssfsi)
+c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/avr5\libgcc.a(_addsub_sf.o)
+                              meranie_teploty.o (__subsf3)
+c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/avr5\libgcc.a(_mul_sf.o)
+                              main.o (__mulsf3)
+c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/avr5\libgcc.a(_div_sf.o)
+                              int_ee.o (__divsf3)
+c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/avr5\libgcc.a(_ne_sf.o)
+                              meranie_teploty.o (__nesf2)
+c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/avr5\libgcc.a(_gt_sf.o)
+                              meranie_podsvietenia.o (__gtsf2)
+c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/avr5\libgcc.a(_ge_sf.o)
+                              meranie_nadrze.o (__gesf2)
+c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/avr5\libgcc.a(_lt_sf.o)
+                              meranie_podsvietenia.o (__ltsf2)
+c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/avr5\libgcc.a(_si_to_sf.o)
+                              main.o (__floatsisf)
+c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/avr5\libgcc.a(_sf_to_si.o)
+                              meranie_teploty.o (__fixsfsi)
+c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/avr5\libgcc.a(_thenan_sf.o)
+                              c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/avr5\libgcc.a(_addsub_sf.o) (__thenan_sf)
+c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/avr5\libgcc.a(_prologue.o)
+                              c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/avr5\libgcc.a(_addsub_sf.o) (__prologue_saves__)
+c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/avr5\libgcc.a(_epilogue.o)
+                              c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/avr5\libgcc.a(_addsub_sf.o) (__epilogue_restores__)
+c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/avr5\libgcc.a(_pack_sf.o)
+                              c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/avr5\libgcc.a(_addsub_sf.o) (__pack_f)
+c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/avr5\libgcc.a(_unpack_sf.o)
+                              c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/avr5\libgcc.a(_addsub_sf.o) (__unpack_f)
+c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/avr5\libgcc.a(_fpcmp_parts_sf.o)
+                              c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/avr5\libgcc.a(_ne_sf.o) (__fpcmp_parts_f)
+c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/../../../../avr/lib/avr5\libc.a(log.o)
+                              meranie_teploty.o (log)
+c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/../../../../avr/lib/avr5\libc.a(square.o)
+                              meranie_teploty.o (square)
+c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/../../../../avr/lib/avr5\libc.a(ee_rb.1F2021.o)
+                              int_ee.o (__eeprom_read_byte_1F2021)
+c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/../../../../avr/lib/avr5\libc.a(ee_rblk.1F2021.o)
+                              int_ee.o (__eeprom_read_block_1F2021)
+c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/../../../../avr/lib/avr5\libc.a(ee_wb.1F2021.o)
+                              int_ee.o (__eeprom_write_byte_1F2021)
+c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/../../../../avr/lib/avr5\libc.a(fp_nan.o)
+                              c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/../../../../avr/lib/avr5\libc.a(log.o) (__fp_nanEDOM)
+c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/../../../../avr/lib/avr5\libc.a(fp_powerseries.o)
+                              c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/../../../../avr/lib/avr5\libc.a(log.o) (__fp_powerseries)
+c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/../../../../avr/lib/avr5\libc.a(fp_split.o)
+                              c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/../../../../avr/lib/avr5\libc.a(log.o) (__fp_split_a)
+c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/../../../../avr/lib/avr5\libc.a(fp_flashconst.o)
+                              c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/../../../../avr/lib/avr5\libc.a(fp_powerseries.o) (__fp_flashconst)
+
+Allocating common symbols
+Common symbol       size              file
+
+n_adc               0x2               main.o
+bat_odb             0x4               main.o
+lambda_on           0x1               main.o
+servis_km           0x4               main.o
+sig_nadrze          0x2               main.o
+rychlost_p          0x2               main.o
+km                  0x4               main.o
+sirka               0x1               main.o
+poc_imp_10m         0x2               main.o
+min_spotreba_3      0x1               main.o
+accelerometer_y     0x1               main.o
+stopky_mcas1        0x4               main.o
+as_spotrebovane_palivo_km_old
+                    0x4               main.o
+sig_namrazy         0x2               main.o
+mnu_develop_on      0x1               main.o
+poc_des_mm_1_imp    0x4               main.o
+kbl                 0x4               main.o
+poc_stav            0x2               main.o
+nick                0xa               main.o
+otacky              0x2               main.o
+otacky_del          0x1               main.o
+poc_ms_ml           0x2               main.o
+stav                0x1               main.o
+battery_beep_s      0x1               main.o
+as_tcnt_old         0x2               main.o
+as_doba_merania     0x2               main.o
+mnu_400m_on         0x1               main.o
+poc_bc_menu         0x1               main.o
+pal_korekcia        0x1               main.o
+dn                  0x8c              main.o
+meranie_400m_max    0x2               main.o
+wbl_afr_0V          0x4               main.o
+pal_stav            0x1               main.o
+r_km                0x4               main.o
+doba_jazdy          0x4               main.o
+stopky_mcas2        0x4               main.o
+ppp                 0x2               main.o
+rychlost            0x2               main.o
+n_spotrebovane_palivo
+                    0x4               main.o
+max_pretazenie_y    0x1               main.o
+kavicka_o           0x2               main.o
+max_pretazenie_x    0x1               main.o
+wbl_afr_5V          0x4               main.o
+wbl_limitok         0x1               main.o
+mnu_pretazenie_on   0x1               main.o
+r_meranie           0x2               main.o
+status_ss           0x3               main.o
+accelerometer_x     0x1               main.o
+sv_odpocet          0x1               main.o
+BLUE                0x2               main.o
+cena_za_l           0x2               main.o
+n_obsah_temp        0x2               main.o
+kv1                 0x4               main.o
+battery_beep_l_s    0x1               main.o
+kvt                 0x2               main.o
+lambda              0x2               main.o
+spotrebovane_palivo_denne
+                    0x14              main.o
+as_timer            0x2               main.o
+doba_jazdy_denne    0x14              main.o
+pal_tmp             0x1e              main.o
+teplota             0x2               main.o
+pal_hodnota         0x1               main.o
+meranie_400m_km     0x4               main.o
+pal_doba            0x1               main.o
+dndevelop           0x8c              main.o
+vstrek_start        0x2               main.o
+teplota_motoru      0x2               main.o
+meranie_400m_tcnt_start
+                    0x2               main.o
+kv2                 0x4               main.o
+menu_nr             0x3               main.o
+zrychlenie_stav     0x1               main.o
+max_spd             0x2               main.o
+kavicka_s           0x2               main.o
+poc_valcov          0x1               main.o
+stopky_mcas4        0x4               main.o
+doba_jazdy_ss       0xc               main.o
+meranie_400m_rychlost
+                    0x2               main.o
+pal_zapis           0x1               main.o
+max_zrychlenie      0x1               main.o
+GREEN               0x2               main.o
+nadrz_status        0x2               main.o
+r_end               0x4               main.o
+ot_imp              0x1               main.o
+wbl_afr             0x4               main.o
+as_mnozstvo_paliva_h
+                    0x4               main.o
+battery_beep_t      0x1               main.o
+sig_teploty_motoru  0x1               main.o
+kv3                 0x4               main.o
+M_COL_BCK           0x2               main.o
+zrychlenie_tcnt_start
+                    0x2               main.o
+ot_imp_old          0x1               main.o
+COL_TXT_LCD2        0x2               main.o
+napatie             0x2               main.o
+wbl_ratio           0x4               main.o
+stopky_stav         0x1               main.o
+mnu_stopky_on       0x1               main.o
+as_h                0x2               main.o
+offset_x            0x1               main.o
+accelerometer_z     0x1               main.o
+as_mnozstvo_paliva_old
+                    0x4               main.o
+sv_nap_val          0x6               main.o
+r_old2              0x2               main.o
+stav_test           0x1               main.o
+hodiny_s            0x1               main.o
+as_km_old           0x4               main.o
+wbl_limitnok        0x1               main.o
+meranie_400m_stav   0x1               main.o
+lcd1_stav           0x1               mnu_bc.o
+spotrebovane_palivo
+                    0x4               main.o
+lcd_type            0x1               main.o
+M_COL_TXT           0x2               main.o
+ot_mer_imp          0x1               main.o
+as_s_old            0x2               main.o
+r_start             0x4               main.o
+zrychlenie_rychlost
+                    0x2               main.o
+km_pv               0x8               main.o
+as_mnozstvo_paliva_km
+                    0x4               main.o
+WHITE               0x2               main.o
+priemer             0x1               main.o
+mnu_max             0x1               main.o
+sv_hodnota          0x1               main.o
+ot_status           0x1               main.o
+mnu_motor_on        0x1               main.o
+min_spotreba_2      0x1               main.o
+priemerna_spotreba_pv
+                    0x2               main.o
+hodiny_ms           0x2               main.o
+as_km               0x2               main.o
+profil              0x1               main.o
+pal_start           0x1               main.o
+pal_act             0x1               main.o
+dlzka_merania       0x2               main.o
+zrychlenie_cas      0x2               main.o
+lambda_old          0x2               main.o
+spotrebovane_palivo_pv
+                    0x8               main.o
+km_denne            0x14              main.o
+as_spotrebovane_palivo_h_old
+                    0x4               main.o
+pal                 0x1e              mnu_develop.o
+sv_nap              0x2               main.o
+min_spotreba_1      0x1               main.o
+otacky_max          0x2               main.o
+pal_cak             0x1               main.o
+zrychlenie_max      0x2               main.o
+poc_zubov_abs       0x1               main.o
+vstrekovac          0x2               main.o
+motor_on            0x1               main.o
+as_ms_old           0x2               main.o
+meranie_400m_cas    0x2               main.o
+as_vzdialenost      0x4               main.o
+teplota_motoru_cidlo
+                    0x1               main.o
+max_spd_denne       0xa               main.o
+lambda_old1         0x2               main.o
+ot_cas              0x2               main.o
+hodiny_m            0x1               main.o
+hodiny_h            0x1               main.o
+dlzka_vstreku       0x2               main.o
+GREY                0x2               main.o
+n_voltage           0x2               main.o
+nadrz_timer         0x1               main.o
+km_ss               0xc               main.o
+stopky_mcas3        0x4               main.o
+COL_TXT_LCD1        0x2               main.o
+servis              0x2               main.o
+pal_tmp_poc         0x1               main.o
+spotrebovane_palivo_ss
+                    0xc               main.o
+obvod_kolesa        0x4               main.o
+mnu_zrychlenie_on   0x1               main.o
+hodiny_on           0x1               main.o
+lambda_meas         0x1               main.o
+posledna_kontrola   0x1               main.o
+cena_za_l_u         0x4               main.o
+RED                 0x2               main.o
+kp                  0x4               main.o
+pal_s               0x1               main.o
+as_vstrek_km_old    0x2               main.o
+doba_vstreku        0x2               main.o
+stopky_cas          0x4               main.o
+n_hodnota           0x2               main.o
+as_vstrek_h_old     0x4               main.o
+reset_j             0x1               main.o
+offset_y            0x1               main.o
+n_posledna_hodnota  0x2               main.o
+max_dojazd          0x2               main.o
+ot_cas_old          0x2               main.o
+r_old1              0x2               main.o
+zrychlenie_rychlost_old
+                    0x2               main.o
+BLACK               0x2               main.o
+YELLOW              0x2               main.o
+cidlo_teploty_motoru
+                    0x1               main.o
+
+Discarded input sections
+
+ .stabstr       0x00000000        0x0 c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/../../../../avr/lib/avr5/crtm644p.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00020000         xr
+data             0x00800060         0x0000ffa0         rw !x
+eeprom           0x00810000         0x00010000         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+Address of section .data set to 0x800100
+LOAD c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/../../../../avr/lib/avr5/crtm644p.o
+LOAD main.o
+LOAD int_ee.o
+LOAD i2c.o
+LOAD accelerometer.o
+LOAD keys.o
+LOAD delay.o
+LOAD menu.o
+LOAD meranie_spotreby.o
+LOAD meranie_vzdialenosti_rychlosti.o
+LOAD meranie_teploty.o
+LOAD meranie_nadrze.o
+LOAD beep.o
+LOAD meranie_baterky.o
+LOAD meranie_podsvietenia.o
+LOAD lcd_S65_LS020.o
+LOAD font_8_12.o
+LOAD mnu_bc.o
+LOAD mnu_max_hodnoty.o
+LOAD mnu_nastavenia.o
+LOAD input_int.o
+LOAD mnu_pretazenie.o
+LOAD zrychlenie.o
+LOAD verzia.o
+LOAD vystraha.o
+LOAD eeprom_24Cxx.o
+LOAD logo.o
+LOAD reset.o
+LOAD mnu_motor.o
+LOAD mnu_develop.o
+LOAD input_char.o
+LOAD mnu_400m.o
+LOAD bw_picture.o
+LOAD mnu_stopky.o
+LOAD nadrz.o
+LOAD c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/avr5\libgcc.a
+LOAD c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/../../../../avr/lib/avr5\libc.a
+LOAD c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/avr5\libgcc.a
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000     0xfa66
+ *(.vectors)
+ .vectors       0x00000000       0x7c c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/../../../../avr/lib/avr5/crtm644p.o
+                0x00000000                __vectors
+                0x00000000                __vector_default
+ *(.vectors)
+ *(.progmem.gcc*)
+ .progmem.gcc_sw_table
+                0x0000007c       0x3c mnu_nastavenia.o
+ .progmem.gcc_fplib
+                0x000000b8       0x32 c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/../../../../avr/lib/avr5\libc.a(log.o)
+ *(.progmem*)
+ .progmem.data  0x000000ea        0xb int_ee.o
+ .progmem.data  0x000000f5       0x93 lcd_S65_LS020.o
+                0x00000179                init4_l2f50
+                0x0000013a                init2_l2f50
+                0x00000157                init3_l2f50
+                0x000000f5                init1
+                0x00000131                init1_l2f50
+                0x00000109                init2
+ .progmem.data  0x00000188      0x954 font_8_12.o
+                0x00000188                font_8_12
+ .progmem.data  0x00000adc       0x61 mnu_bc.o
+ .progmem.data  0x00000b3d      0x19d mnu_nastavenia.o
+ .progmem.data  0x00000cda       0x16 mnu_pretazenie.o
+ .progmem.data  0x00000cf0       0x1a zrychlenie.o
+ .progmem.data  0x00000d0a       0x2c verzia.o
+ .progmem.data  0x00000d36       0x11 reset.o
+ .progmem.data  0x00000d47       0x69 mnu_motor.o
+ .progmem.data  0x00000db0       0x99 mnu_develop.o
+ .progmem.data  0x00000e49       0x25 mnu_400m.o
+ .progmem.data  0x00000e6e     0x10a6 bw_picture.o
+                0x00000e6e                bw_picture
+ .progmem.data  0x00001f14       0x67 mnu_stopky.o
+ .progmem.data  0x00001f7b        0xf nadrz.o
+                0x00001f8a                . = ALIGN (0x2)
+                0x00001f8a                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x00001f8a        0x0 linker stubs
+ *(.trampolines*)
+                0x00001f8a                __trampolines_end = .
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x00001f8a                __ctors_start = .
+ *(.ctors)
+                0x00001f8a                __ctors_end = .
+                0x00001f8a                __dtors_start = .
+ *(.dtors)
+                0x00001f8a                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x00001f8a        0x0 c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/../../../../avr/lib/avr5/crtm644p.o
+                0x00001f8a                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x00001f8a        0xc c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/../../../../avr/lib/avr5/crtm644p.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x00001f96       0x16 c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/avr5\libgcc.a(_copy_data.o)
+                0x00001f96                __do_copy_data
+ .init4         0x00001fac       0x10 c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/avr5\libgcc.a(_clear_bss.o)
+                0x00001fac                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x00001fbc        0x8 c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/../../../../avr/lib/avr5/crtm644p.o
+ *(.init9)
+ *(.text)
+ .text          0x00001fc4        0x4 c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/../../../../avr/lib/avr5/crtm644p.o
+                0x00001fc4                __vector_22
+                0x00001fc4                __vector_28
+                0x00001fc4                __vector_1
+                0x00001fc4                __vector_24
+                0x00001fc4                __vector_12
+                0x00001fc4                __bad_interrupt
+                0x00001fc4                __vector_6
+                0x00001fc4                __vector_23
+                0x00001fc4                __vector_30
+                0x00001fc4                __vector_25
+                0x00001fc4                __vector_11
+                0x00001fc4                __vector_17
+                0x00001fc4                __vector_19
+                0x00001fc4                __vector_7
+                0x00001fc4                __vector_27
+                0x00001fc4                __vector_5
+                0x00001fc4                __vector_4
+                0x00001fc4                __vector_2
+                0x00001fc4                __vector_21
+                0x00001fc4                __vector_15
+                0x00001fc4                __vector_29
+                0x00001fc4                __vector_8
+                0x00001fc4                __vector_26
+                0x00001fc4                __vector_14
+                0x00001fc4                __vector_10
+                0x00001fc4                __vector_18
+                0x00001fc4                __vector_20
+ .text          0x00001fc8      0x8c4 main.o
+                0x00002090                get_advalue
+                0x0000205c                set_ports
+                0x0000219a                hodiny
+                0x00002074                nastav_ad
+                0x00001fc8                bcklight
+                0x000026cc                operacie_na_pozadi
+                0x00002774                main
+                0x000020a2                reset_jazdy
+                0x00002124                kavicka
+                0x00002404                __vector_16
+                0x0000248c                power_down
+                0x00001fec                nast_cpu
+ .text          0x0000288c      0xe16 int_ee.o
+                0x00003416                nacitaj_data
+                0x00002928                zapis_checksum
+                0x00002984                zapis_dat
+                0x00002d4e                zapis_nastaveni_bc
+                0x0000303c                nacitaj_nastavenia
+                0x00002fde                checksum_error
+                0x0000288c                zapis_ee
+ .text          0x000036a2       0xa6 i2c.o
+                0x000036d6                i2c_addr_w
+                0x000036fe                i2c_data_r
+                0x000036b6                i2c_start
+                0x00003718                i2c_data_rd
+                0x000036c6                i2c_stop
+                0x000036ea                i2c_data_w
+                0x000036a2                i2c_init
+                0x00003732                i2c_addr_r
+ .text          0x00003748       0xc2 accelerometer.o
+                0x000037c8                zmeraj_pretazenie
+                0x00003748                accelerometer_stby
+                0x00003764                accelerometer_init
+                0x00003780                accelerometer_read
+ .text          0x0000380a       0xec keys.o
+                0x0000380a                tlacitka
+                0x0000382e                tlacitka_long
+ .text          0x000038f6       0x3e delay.o
+                0x000038f6                delay1s
+                0x00003908                delay100ms
+                0x0000391a                delay_s
+ .text          0x00003934      0x136 menu.o
+                0x00003934                zmena_menu
+                0x00003964                menu
+ .text          0x00003a6a      0x500 meranie_spotreby.o
+                0x00003a6a                __vector_3
+                0x00003f3c                __vector_9
+ .text          0x00003f6a      0x22e meranie_vzdialenosti_rychlosti.o
+                0x00003f6a                __vector_13
+                0x00003fb4                vypocet_aktualnej_rychlosti
+ .text          0x00004198      0x354 meranie_teploty.o
+                0x00004374                meranie_teploty
+                0x00004198                meranie_teploty_motoru
+ .text          0x000044ec      0x4f2 meranie_nadrze.o
+                0x00004944                zmeraj_nadrz
+                0x000044ec                hodnota_paliva
+                0x00004594                meranie_spotreby_za_poslednu_vzdialenost
+                0x000046ce                zapis_nadrz
+ .text          0x000049de       0x62 beep.o
+                0x000049de                beep
+ .text          0x00004a40       0xd4 meranie_baterky.o
+                0x00004a40                meranie_baterky
+ .text          0x00004b14      0x328 meranie_podsvietenia.o
+                0x00004b14                meranie_podsvietenia
+ .text          0x00004e3c     0x12c4 lcd_S65_LS020.o
+                0x00004e68                lcd_sendd
+                0x0000578c                lcd_putstring
+                0x000051a2                lcd_clr_dspl
+                0x00004fac                lcd_scroll
+                0x0000511e                obdlznik
+                0x00004f26                lcd_on
+                0x00005870                lcd_putchars
+                0x00004f62                lcd_scroll_set
+                0x00004eea                lcd_off
+                0x00004fec                lcd_cursor
+                0x00005e42                lcd_init
+                0x00005032                lcd_area
+                0x00004e3c                lcd_sendd0
+                0x00005e38                spi_write
+                0x000058f8                lcd_putnr
+                0x00005504                lcd_putchar
+                0x00004eae                lcd_sendc
+                0x0000525e                lcd_put_bw_picture
+ .text          0x00006100        0x0 font_8_12.o
+ .text          0x00006100     0x1672 mnu_bc.o
+                0x00006526                zobraz_km
+                0x000075d6                mnu_bc
+                0x000068f8                zobraz_cenu
+                0x000063c8                vypocet_priemerna_rychlost
+                0x000072b8                zobraz_dobu
+                0x000061d2                vypocet_spotrebovane_palivo
+                0x00006472                reset_denne
+                0x00006708                zobraz_spotrebu
+                0x00006100                vypocet_km
+                0x00006a76                zobraz_lcd1
+                0x000062a4                vypocet_doba_jazdy
+                0x00006376                vypocet_priemerna_spotreba
+                0x00007150                zobraz_rychlost
+                0x000065f2                zobraz_cislo_menu
+ .text          0x00007772      0x11c mnu_max_hodnoty.o
+                0x00007772                mnu_max_hodnoty
+                0x00007778                max_hodnoty_zapis
+ .text          0x0000788e     0x1df0 mnu_nastavenia.o
+                0x00007bc8                zobraz_servis_interval
+                0x00007ac0                zobraz_podsvietenie_min
+                0x00007e58                zobraz_mnu_zrychlenie_on
+                0x00007a94                zobraz_podsvietenie_max
+                0x00007f1c                zobraz_mnu_motor_on
+                0x000080fe                zobraz_nast_nadrze
+                0x00007d50                zobraz_mnu_develop_on
+                0x000080d2                zobraz_zapispozdrav
+                0x00007a68                zobraz_farby_text
+                0x00007f7e                zobraz_all_2
+                0x0000812a                zobraz_nast_ot
+                0x00007b44                zobraz_vstrekovac
+                0x00007aec                zobraz_kolesa
+                0x00007a3c                zobraz_farby_podklad
+                0x000078aa                zobraz_servis_zostava_c
+                0x00007b70                zobraz_cidlo_rychosti
+                0x00007cee                zobraz_mnu_400m_on
+                0x00008156                zobraz_hod_on
+                0x00007db2                zobraz_mnu_stopky_on
+                0x00007c4c                zobraz_hod
+                0x00007c78                zobraz_pocetbcmenu
+                0x00007eba                zobraz_mnu_pretazenie_on
+                0x00007b18                zobraz_poc_valcov
+                0x00007bf4                zobraz_servis_zostava
+                0x000088a0                mnu_nastavenia
+                0x00007c20                zobraz_cenu_za_l
+                0x0000788e                dalsie
+                0x00008286                zobraz_all
+                0x00007b9c                zobraz_naklon
+                0x000081b8                zobraz_lambda_on
+                0x0000863a                zobraz_all_3
+                0x00007ca4                zobraz_max_doba_jazdy
+ .text          0x0000967e      0x892 input_int.o
+                0x0000967e                input_int
+ .text          0x00009f10      0x4a2 mnu_pretazenie.o
+                0x00009f10                graf
+                0x0000a14e                mnu_pretazenie
+ .text          0x0000a3b2      0x352 zrychlenie.o
+                0x0000a3b2                zrychlenie
+                0x0000a576                mnu_zrychlenie
+ .text          0x0000a704      0x23e verzia.o
+                0x0000a704                verzia
+ .text          0x0000a942      0x33a vystraha.o
+                0x0000a942                vystraha
+ .text          0x0000ac7c       0x70 eeprom_24Cxx.o
+                0x0000acb8                serial_eeprom_write_byte
+                0x0000ac7c                serial_eeprom_read_byte
+ .text          0x0000acec      0x1ac logo.o
+                0x0000acec                logo
+ .text          0x0000ae98      0x13c reset.o
+                0x0000ae98                reset
+ .text          0x0000afd4      0xa78 mnu_motor.o
+                0x0000b04e                meranie_lambdy
+                0x0000b162                mnu_motor
+                0x0000afd4                vypocet_ot_motoru
+ .text          0x0000ba4c     0x1920 mnu_develop.o
+                0x0000c25a                mnu_develop5
+                0x0000ba4c                mnu_develop6
+                0x0000bef6                mnu_develop2
+                0x0000c58a                mnu_develop4
+                0x0000c932                mnu_develop3
+                0x0000ccd6                mnu_develop
+ .text          0x0000d36c       0xac input_char.o
+                0x0000d36c                input_char
+ .text          0x0000d418      0x37c mnu_400m.o
+                0x0000d418                meranie_400m
+                0x0000d53e                mnu_400m
+ .text          0x0000d794        0x0 bw_picture.o
+ .text          0x0000d794     0x1098 mnu_stopky.o
+                0x0000d7d4                mnu_stopky
+                0x0000d794                stopky
+ .text          0x0000e82c       0xe8 nadrz.o
+                0x0000e82c                nadrz
+ .text          0x0000e914        0x0 c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/avr5\libgcc.a(_mulsi3.o)
+ .text          0x0000e914        0x0 c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/avr5\libgcc.a(_udivmodhi4.o)
+ .text          0x0000e914        0x0 c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/avr5\libgcc.a(_divmodhi4.o)
+ .text          0x0000e914        0x0 c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/avr5\libgcc.a(_udivmodsi4.o)
+ .text          0x0000e914        0x0 c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/avr5\libgcc.a(_divmodsi4.o)
+ .text          0x0000e914        0x0 c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/avr5\libgcc.a(_exit.o)
+ .text          0x0000e914        0x0 c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/avr5\libgcc.a(_copy_data.o)
+ .text          0x0000e914        0x0 c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/avr5\libgcc.a(_clear_bss.o)
+ .text          0x0000e914       0x4c c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/avr5\libgcc.a(_fixunssfsi.o)
+                0x0000e914                __fixunssfsi
+ .text          0x0000e960      0x316 c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/avr5\libgcc.a(_addsub_sf.o)
+                0x0000ebba                __subsf3
+                0x0000ec1c                __addsf3
+ .text          0x0000ec76      0x23c c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/avr5\libgcc.a(_mul_sf.o)
+                0x0000ec76                __mulsf3
+ .text          0x0000eeb2      0x174 c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/avr5\libgcc.a(_div_sf.o)
+                0x0000eeb2                __divsf3
+ .text          0x0000f026       0x6c c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/avr5\libgcc.a(_ne_sf.o)
+                0x0000f026                __nesf2
+ .text          0x0000f092       0x6c c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/avr5\libgcc.a(_gt_sf.o)
+                0x0000f092                __gtsf2
+ .text          0x0000f0fe       0x6c c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/avr5\libgcc.a(_ge_sf.o)
+                0x0000f0fe                __gesf2
+ .text          0x0000f16a       0x6c c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/avr5\libgcc.a(_lt_sf.o)
+                0x0000f16a                __ltsf2
+ .text          0x0000f1d6       0xd2 c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/avr5\libgcc.a(_si_to_sf.o)
+                0x0000f1d6                __floatsisf
+ .text          0x0000f2a8       0xa0 c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/avr5\libgcc.a(_sf_to_si.o)
+                0x0000f2a8                __fixsfsi
+ .text          0x0000f348        0x0 c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/avr5\libgcc.a(_thenan_sf.o)
+ .text          0x0000f348        0x0 c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/avr5\libgcc.a(_prologue.o)
+ .text          0x0000f348        0x0 c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/avr5\libgcc.a(_epilogue.o)
+ .text          0x0000f348      0x244 c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/avr5\libgcc.a(_pack_sf.o)
+                0x0000f348                __pack_f
+ .text          0x0000f58c      0x13e c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/avr5\libgcc.a(_unpack_sf.o)
+                0x0000f58c                __unpack_f
+ .text          0x0000f6ca       0xd2 c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/avr5\libgcc.a(_fpcmp_parts_sf.o)
+                0x0000f6ca                __fpcmp_parts_f
+ .text          0x0000f79c        0x0 c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/../../../../avr/lib/avr5\libc.a(log.o)
+ .text          0x0000f79c        0x0 c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/../../../../avr/lib/avr5\libc.a(square.o)
+ .text          0x0000f79c        0x0 c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/../../../../avr/lib/avr5\libc.a(ee_rb.1F2021.o)
+ .text          0x0000f79c        0x0 c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/../../../../avr/lib/avr5\libc.a(ee_rblk.1F2021.o)
+ .text          0x0000f79c        0x0 c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/../../../../avr/lib/avr5\libc.a(ee_wb.1F2021.o)
+ .text          0x0000f79c        0x0 c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/../../../../avr/lib/avr5\libc.a(fp_nan.o)
+ .text          0x0000f79c        0x0 c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/../../../../avr/lib/avr5\libc.a(fp_powerseries.o)
+ .text          0x0000f79c        0x0 c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/../../../../avr/lib/avr5\libc.a(fp_split.o)
+ .text          0x0000f79c        0x0 c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/../../../../avr/lib/avr5\libc.a(fp_flashconst.o)
+                0x0000f79c                . = ALIGN (0x2)
+ *(.text.*)
+ .text.libgcc   0x0000f79c       0x3e c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/avr5\libgcc.a(_mulsi3.o)
+                0x0000f79c                __mulsi3
+ .text.libgcc   0x0000f7da       0x28 c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/avr5\libgcc.a(_udivmodhi4.o)
+                0x0000f7da                __udivmodhi4
+ .text.libgcc   0x0000f802       0x26 c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/avr5\libgcc.a(_divmodhi4.o)
+                0x0000f802                __divmodhi4
+                0x0000f802                _div
+ .text.libgcc   0x0000f828       0x44 c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/avr5\libgcc.a(_udivmodsi4.o)
+                0x0000f828                __udivmodsi4
+ .text.libgcc   0x0000f86c       0x36 c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/avr5\libgcc.a(_divmodsi4.o)
+                0x0000f86c                __divmodsi4
+ .text.libgcc   0x0000f8a2        0x0 c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/avr5\libgcc.a(_exit.o)
+ .text.libgcc   0x0000f8a2        0x0 c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc   0x0000f8a2        0x0 c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x0000f8a2       0x38 c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/avr5\libgcc.a(_prologue.o)
+                0x0000f8a2                __prologue_saves__
+ .text.libgcc   0x0000f8da       0x36 c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/avr5\libgcc.a(_epilogue.o)
+                0x0000f8da                __epilogue_restores__
+ .text.fplib    0x0000f910       0x52 c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/../../../../avr/lib/avr5\libc.a(log.o)
+                0x0000f910                log
+ .text.fplib    0x0000f962        0x8 c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/../../../../avr/lib/avr5\libc.a(square.o)
+                0x0000f962                square
+ .text.eeprom   0x0000f96a       0x10 c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/../../../../avr/lib/avr5\libc.a(ee_rb.1F2021.o)
+                0x0000f96a                __eeprom_read_byte_1F2021
+ .text.eeprom   0x0000f97a        0xa c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/../../../../avr/lib/avr5\libc.a(ee_rblk.1F2021.o)
+                0x0000f97a                __eeprom_read_block_1F2021
+ .text.eeprom   0x0000f984       0x18 c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/../../../../avr/lib/avr5\libc.a(ee_wb.1F2021.o)
+                0x0000f984                __eeprom_write_byte_1F2021
+ .text.fplib    0x0000f99c        0x6 c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/../../../../avr/lib/avr5\libc.a(fp_nan.o)
+                0x0000f99c                __fp_nanERANGE
+                0x0000f99c                __fp_nan
+                0x0000f99c                __fp_nanEDOM
+                0x0000f99c                __fp_nanx
+ .text.fplib    0x0000f9a2       0x66 c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/../../../../avr/lib/avr5\libc.a(fp_powerseries.o)
+                0x0000f9a2                __fp_powerseries
+ .text.fplib    0x0000fa08       0x52 c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/../../../../avr/lib/avr5\libc.a(fp_split.o)
+                0x0000fa08                __fp_split3
+                0x0000fa0e                __fp_split2
+                0x0000fa20                __fp_split1
+                0x0000fa3c                __fp_split_a
+ .text.fplib    0x0000fa5a        0xa c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/../../../../avr/lib/avr5\libc.a(fp_flashconst.o)
+                0x0000fa5a                __fp_flashconst
+                0x0000fa64                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x0000fa64        0x0 c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/avr5\libgcc.a(_exit.o)
+                0x0000fa64                exit
+                0x0000fa64                _exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x0000fa64        0x2 c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/avr5\libgcc.a(_exit.o)
+ *(.fini0)
+                0x0000fa66                _etext = .
+
+.data           0x00800100        0x8 load address 0x0000fa66
+                0x00800100                PROVIDE (__data_start, .)
+ *(.data)
+ .data          0x00800100        0x0 c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/../../../../avr/lib/avr5/crtm644p.o
+ .data          0x00800100        0x0 main.o
+ .data          0x00800100        0x0 int_ee.o
+ .data          0x00800100        0x0 i2c.o
+ .data          0x00800100        0x0 accelerometer.o
+ .data          0x00800100        0x0 keys.o
+ .data          0x00800100        0x0 delay.o
+ .data          0x00800100        0x0 menu.o
+ .data          0x00800100        0x0 meranie_spotreby.o
+ .data          0x00800100        0x0 meranie_vzdialenosti_rychlosti.o
+ .data          0x00800100        0x0 meranie_teploty.o
+ .data          0x00800100        0x0 meranie_nadrze.o
+ .data          0x00800100        0x0 beep.o
+ .data          0x00800100        0x0 meranie_baterky.o
+ .data          0x00800100        0x0 meranie_podsvietenia.o
+ .data          0x00800100        0x0 lcd_S65_LS020.o
+ .data          0x00800100        0x0 font_8_12.o
+ .data          0x00800100        0x0 mnu_bc.o
+ .data          0x00800100        0x0 mnu_max_hodnoty.o
+ .data          0x00800100        0x0 mnu_nastavenia.o
+ .data          0x00800100        0x0 input_int.o
+ .data          0x00800100        0x0 mnu_pretazenie.o
+ .data          0x00800100        0x0 zrychlenie.o
+ .data          0x00800100        0x0 verzia.o
+ .data          0x00800100        0x0 vystraha.o
+ .data          0x00800100        0x0 eeprom_24Cxx.o
+ .data          0x00800100        0x0 logo.o
+ .data          0x00800100        0x0 reset.o
+ .data          0x00800100        0x0 mnu_motor.o
+ .data          0x00800100        0x0 mnu_develop.o
+ .data          0x00800100        0x0 input_char.o
+ .data          0x00800100        0x0 mnu_400m.o
+ .data          0x00800100        0x0 bw_picture.o
+ .data          0x00800100        0x0 mnu_stopky.o
+ .data          0x00800100        0x0 nadrz.o
+ .data          0x00800100        0x0 c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/avr5\libgcc.a(_mulsi3.o)
+ .data          0x00800100        0x0 c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/avr5\libgcc.a(_udivmodhi4.o)
+ .data          0x00800100        0x0 c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/avr5\libgcc.a(_divmodhi4.o)
+ .data          0x00800100        0x0 c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/avr5\libgcc.a(_udivmodsi4.o)
+ .data          0x00800100        0x0 c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/avr5\libgcc.a(_divmodsi4.o)
+ .data          0x00800100        0x0 c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/avr5\libgcc.a(_exit.o)
+ .data          0x00800100        0x0 c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/avr5\libgcc.a(_copy_data.o)
+ .data          0x00800100        0x0 c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/avr5\libgcc.a(_clear_bss.o)
+ .data          0x00800100        0x0 c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/avr5\libgcc.a(_fixunssfsi.o)
+ .data          0x00800100        0x0 c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/avr5\libgcc.a(_addsub_sf.o)
+ .data          0x00800100        0x0 c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/avr5\libgcc.a(_mul_sf.o)
+ .data          0x00800100        0x0 c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/avr5\libgcc.a(_div_sf.o)
+ .data          0x00800100        0x0 c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/avr5\libgcc.a(_ne_sf.o)
+ .data          0x00800100        0x0 c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/avr5\libgcc.a(_gt_sf.o)
+ .data          0x00800100        0x0 c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/avr5\libgcc.a(_ge_sf.o)
+ .data          0x00800100        0x0 c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/avr5\libgcc.a(_lt_sf.o)
+ .data          0x00800100        0x0 c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/avr5\libgcc.a(_si_to_sf.o)
+ .data          0x00800100        0x0 c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/avr5\libgcc.a(_sf_to_si.o)
+ .data          0x00800100        0x8 c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/avr5\libgcc.a(_thenan_sf.o)
+                0x00800100                __thenan_sf
+ .data          0x00800108        0x0 c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/avr5\libgcc.a(_prologue.o)
+ .data          0x00800108        0x0 c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/avr5\libgcc.a(_epilogue.o)
+ .data          0x00800108        0x0 c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/avr5\libgcc.a(_pack_sf.o)
+ .data          0x00800108        0x0 c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/avr5\libgcc.a(_unpack_sf.o)
+ .data          0x00800108        0x0 c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/avr5\libgcc.a(_fpcmp_parts_sf.o)
+ .data          0x00800108        0x0 c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/../../../../avr/lib/avr5\libc.a(log.o)
+ .data          0x00800108        0x0 c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/../../../../avr/lib/avr5\libc.a(square.o)
+ .data          0x00800108        0x0 c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/../../../../avr/lib/avr5\libc.a(ee_rb.1F2021.o)
+ .data          0x00800108        0x0 c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/../../../../avr/lib/avr5\libc.a(ee_rblk.1F2021.o)
+ .data          0x00800108        0x0 c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/../../../../avr/lib/avr5\libc.a(ee_wb.1F2021.o)
+ .data          0x00800108        0x0 c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/../../../../avr/lib/avr5\libc.a(fp_nan.o)
+ .data          0x00800108        0x0 c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/../../../../avr/lib/avr5\libc.a(fp_powerseries.o)
+ .data          0x00800108        0x0 c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/../../../../avr/lib/avr5\libc.a(fp_split.o)
+ .data          0x00800108        0x0 c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/../../../../avr/lib/avr5\libc.a(fp_flashconst.o)
+ *(.data*)
+ *(.rodata)
+ *(.rodata*)
+ *(.gnu.linkonce.d*)
+                0x00800108                . = ALIGN (0x2)
+                0x00800108                _edata = .
+                0x00800108                PROVIDE (__data_end, .)
+
+.bss            0x00800108      0x346
+                0x00800108                PROVIDE (__bss_start, .)
+ *(.bss)
+ .bss           0x00800108        0x0 c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/../../../../avr/lib/avr5/crtm644p.o
+ .bss           0x00800108        0x0 main.o
+ .bss           0x00800108        0x2 int_ee.o
+                0x00800108                p_ee_zero
+ .bss           0x0080010a        0x0 i2c.o
+ .bss           0x0080010a        0x0 accelerometer.o
+ .bss           0x0080010a        0x0 keys.o
+ .bss           0x0080010a        0x0 delay.o
+ .bss           0x0080010a        0x0 menu.o
+ .bss           0x0080010a        0x0 meranie_spotreby.o
+ .bss           0x0080010a        0x0 meranie_vzdialenosti_rychlosti.o
+ .bss           0x0080010a        0x0 meranie_teploty.o
+ .bss           0x0080010a        0x0 meranie_nadrze.o
+ .bss           0x0080010a        0x0 beep.o
+ .bss           0x0080010a        0x0 meranie_baterky.o
+ .bss           0x0080010a        0x0 meranie_podsvietenia.o
+ .bss           0x0080010a        0x0 lcd_S65_LS020.o
+ .bss           0x0080010a        0x0 font_8_12.o
+ .bss           0x0080010a        0x0 mnu_bc.o
+ .bss           0x0080010a        0x0 mnu_max_hodnoty.o
+ .bss           0x0080010a        0x0 mnu_nastavenia.o
+ .bss           0x0080010a        0x0 input_int.o
+ .bss           0x0080010a        0x0 mnu_pretazenie.o
+ .bss           0x0080010a        0x0 zrychlenie.o
+ .bss           0x0080010a        0x0 verzia.o
+ .bss           0x0080010a        0x0 vystraha.o
+ .bss           0x0080010a        0x0 eeprom_24Cxx.o
+ .bss           0x0080010a        0x0 logo.o
+ .bss           0x0080010a        0x2 reset.o
+                0x0080010a                p_ee_zero7
+ .bss           0x0080010c        0x0 mnu_motor.o
+ .bss           0x0080010c        0x2 mnu_develop.o
+                0x0080010c                p_ee_zero5
+ .bss           0x0080010e        0x0 input_char.o
+ .bss           0x0080010e        0x0 mnu_400m.o
+ .bss           0x0080010e        0x0 bw_picture.o
+ .bss           0x0080010e        0x0 mnu_stopky.o
+ .bss           0x0080010e        0x2 nadrz.o
+                0x0080010e                p_ee_zero6
+ .bss           0x00800110        0x0 c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/avr5\libgcc.a(_mulsi3.o)
+ .bss           0x00800110        0x0 c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/avr5\libgcc.a(_udivmodhi4.o)
+ .bss           0x00800110        0x0 c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/avr5\libgcc.a(_divmodhi4.o)
+ .bss           0x00800110        0x0 c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/avr5\libgcc.a(_udivmodsi4.o)
+ .bss           0x00800110        0x0 c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/avr5\libgcc.a(_divmodsi4.o)
+ .bss           0x00800110        0x0 c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/avr5\libgcc.a(_exit.o)
+ .bss           0x00800110        0x0 c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/avr5\libgcc.a(_copy_data.o)
+ .bss           0x00800110        0x0 c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/avr5\libgcc.a(_clear_bss.o)
+ .bss           0x00800110        0x0 c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/avr5\libgcc.a(_fixunssfsi.o)
+ .bss           0x00800110        0x0 c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/avr5\libgcc.a(_addsub_sf.o)
+ .bss           0x00800110        0x0 c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/avr5\libgcc.a(_mul_sf.o)
+ .bss           0x00800110        0x0 c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/avr5\libgcc.a(_div_sf.o)
+ .bss           0x00800110        0x0 c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/avr5\libgcc.a(_ne_sf.o)
+ .bss           0x00800110        0x0 c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/avr5\libgcc.a(_gt_sf.o)
+ .bss           0x00800110        0x0 c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/avr5\libgcc.a(_ge_sf.o)
+ .bss           0x00800110        0x0 c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/avr5\libgcc.a(_lt_sf.o)
+ .bss           0x00800110        0x0 c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/avr5\libgcc.a(_si_to_sf.o)
+ .bss           0x00800110        0x0 c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/avr5\libgcc.a(_sf_to_si.o)
+ .bss           0x00800110        0x0 c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/avr5\libgcc.a(_thenan_sf.o)
+ .bss           0x00800110        0x0 c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/avr5\libgcc.a(_prologue.o)
+ .bss           0x00800110        0x0 c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/avr5\libgcc.a(_epilogue.o)
+ .bss           0x00800110        0x0 c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/avr5\libgcc.a(_pack_sf.o)
+ .bss           0x00800110        0x0 c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/avr5\libgcc.a(_unpack_sf.o)
+ .bss           0x00800110        0x0 c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/avr5\libgcc.a(_fpcmp_parts_sf.o)
+ .bss           0x00800110        0x0 c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/../../../../avr/lib/avr5\libc.a(log.o)
+ .bss           0x00800110        0x0 c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/../../../../avr/lib/avr5\libc.a(square.o)
+ .bss           0x00800110        0x0 c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/../../../../avr/lib/avr5\libc.a(ee_rb.1F2021.o)
+ .bss           0x00800110        0x0 c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/../../../../avr/lib/avr5\libc.a(ee_rblk.1F2021.o)
+ .bss           0x00800110        0x0 c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/../../../../avr/lib/avr5\libc.a(ee_wb.1F2021.o)
+ .bss           0x00800110        0x0 c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/../../../../avr/lib/avr5\libc.a(fp_nan.o)
+ .bss           0x00800110        0x0 c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/../../../../avr/lib/avr5\libc.a(fp_powerseries.o)
+ .bss           0x00800110        0x0 c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/../../../../avr/lib/avr5\libc.a(fp_split.o)
+ .bss           0x00800110        0x0 c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/../../../../avr/lib/avr5\libc.a(fp_flashconst.o)
+ *(.bss*)
+ *(COMMON)
+ COMMON         0x00800110      0x31f main.o
+                0x00800110                n_adc
+                0x00800112                bat_odb
+                0x00800116                lambda_on
+                0x00800117                servis_km
+                0x0080011b                sig_nadrze
+                0x0080011d                rychlost_p
+                0x0080011f                km
+                0x00800123                sirka
+                0x00800124                poc_imp_10m
+                0x00800126                min_spotreba_3
+                0x00800127                accelerometer_y
+                0x00800128                stopky_mcas1
+                0x0080012c                as_spotrebovane_palivo_km_old
+                0x00800130                sig_namrazy
+                0x00800132                mnu_develop_on
+                0x00800133                poc_des_mm_1_imp
+                0x00800137                kbl
+                0x0080013b                poc_stav
+                0x0080013d                nick
+                0x00800147                otacky
+                0x00800149                otacky_del
+                0x0080014a                poc_ms_ml
+                0x0080014c                stav
+                0x0080014d                battery_beep_s
+                0x0080014e                as_tcnt_old
+                0x00800150                as_doba_merania
+                0x00800152                mnu_400m_on
+                0x00800153                poc_bc_menu
+                0x00800154                pal_korekcia
+                0x00800155                dn
+                0x008001e1                meranie_400m_max
+                0x008001e3                wbl_afr_0V
+                0x008001e7                pal_stav
+                0x008001e8                r_km
+                0x008001ec                doba_jazdy
+                0x008001f0                stopky_mcas2
+                0x008001f4                ppp
+                0x008001f6                rychlost
+                0x008001f8                n_spotrebovane_palivo
+                0x008001fc                max_pretazenie_y
+                0x008001fd                kavicka_o
+                0x008001ff                max_pretazenie_x
+                0x00800200                wbl_afr_5V
+                0x00800204                wbl_limitok
+                0x00800205                mnu_pretazenie_on
+                0x00800206                r_meranie
+                0x00800208                status_ss
+                0x0080020b                accelerometer_x
+                0x0080020c                sv_odpocet
+                0x0080020d                BLUE
+                0x0080020f                cena_za_l
+                0x00800211                n_obsah_temp
+                0x00800213                kv1
+                0x00800217                battery_beep_l_s
+                0x00800218                kvt
+                0x0080021a                lambda
+                0x0080021c                spotrebovane_palivo_denne
+                0x00800230                as_timer
+                0x00800232                doba_jazdy_denne
+                0x00800246                pal_tmp
+                0x00800264                teplota
+                0x00800266                pal_hodnota
+                0x00800267                meranie_400m_km
+                0x0080026b                pal_doba
+                0x0080026c                dndevelop
+                0x008002f8                vstrek_start
+                0x008002fa                teplota_motoru
+                0x008002fc                meranie_400m_tcnt_start
+                0x008002fe                kv2
+                0x00800302                menu_nr
+                0x00800305                zrychlenie_stav
+                0x00800306                max_spd
+                0x00800308                kavicka_s
+                0x0080030a                poc_valcov
+                0x0080030b                stopky_mcas4
+                0x0080030f                doba_jazdy_ss
+                0x0080031b                meranie_400m_rychlost
+                0x0080031d                pal_zapis
+                0x0080031e                max_zrychlenie
+                0x0080031f                GREEN
+                0x00800321                nadrz_status
+                0x00800323                r_end
+                0x00800327                ot_imp
+                0x00800328                wbl_afr
+                0x0080032c                as_mnozstvo_paliva_h
+                0x00800330                battery_beep_t
+                0x00800331                sig_teploty_motoru
+                0x00800332                kv3
+                0x00800336                M_COL_BCK
+                0x00800338                zrychlenie_tcnt_start
+                0x0080033a                ot_imp_old
+                0x0080033b                COL_TXT_LCD2
+                0x0080033d                napatie
+                0x0080033f                wbl_ratio
+                0x00800343                stopky_stav
+                0x00800344                mnu_stopky_on
+                0x00800345                as_h
+                0x00800347                offset_x
+                0x00800348                accelerometer_z
+                0x00800349                as_mnozstvo_paliva_old
+                0x0080034d                sv_nap_val
+                0x00800353                r_old2
+                0x00800355                stav_test
+                0x00800356                hodiny_s
+                0x00800357                as_km_old
+                0x0080035b                wbl_limitnok
+                0x0080035c                meranie_400m_stav
+                0x0080035d                spotrebovane_palivo
+                0x00800361                lcd_type
+                0x00800362                M_COL_TXT
+                0x00800364                ot_mer_imp
+                0x00800365                as_s_old
+                0x00800367                r_start
+                0x0080036b                zrychlenie_rychlost
+                0x0080036d                km_pv
+                0x00800375                as_mnozstvo_paliva_km
+                0x00800379                WHITE
+                0x0080037b                priemer
+                0x0080037c                mnu_max
+                0x0080037d                sv_hodnota
+                0x0080037e                ot_status
+                0x0080037f                mnu_motor_on
+                0x00800380                min_spotreba_2
+                0x00800381                priemerna_spotreba_pv
+                0x00800383                hodiny_ms
+                0x00800385                as_km
+                0x00800387                profil
+                0x00800388                pal_start
+                0x00800389                pal_act
+                0x0080038a                dlzka_merania
+                0x0080038c                zrychlenie_cas
+                0x0080038e                lambda_old
+                0x00800390                spotrebovane_palivo_pv
+                0x00800398                km_denne
+                0x008003ac                as_spotrebovane_palivo_h_old
+                0x008003b0                sv_nap
+                0x008003b2                min_spotreba_1
+                0x008003b3                otacky_max
+                0x008003b5                pal_cak
+                0x008003b6                zrychlenie_max
+                0x008003b8                poc_zubov_abs
+                0x008003b9                vstrekovac
+                0x008003bb                motor_on
+                0x008003bc                as_ms_old
+                0x008003be                meranie_400m_cas
+                0x008003c0                as_vzdialenost
+                0x008003c4                teplota_motoru_cidlo
+                0x008003c5                max_spd_denne
+                0x008003cf                lambda_old1
+                0x008003d1                ot_cas
+                0x008003d3                hodiny_m
+                0x008003d4                hodiny_h
+                0x008003d5                dlzka_vstreku
+                0x008003d7                GREY
+                0x008003d9                n_voltage
+                0x008003db                nadrz_timer
+                0x008003dc                km_ss
+                0x008003e8                stopky_mcas3
+                0x008003ec                COL_TXT_LCD1
+                0x008003ee                servis
+                0x008003f0                pal_tmp_poc
+                0x008003f1                spotrebovane_palivo_ss
+                0x008003fd                obvod_kolesa
+                0x00800401                mnu_zrychlenie_on
+                0x00800402                hodiny_on
+                0x00800403                lambda_meas
+                0x00800404                posledna_kontrola
+                0x00800405                cena_za_l_u
+                0x00800409                RED
+                0x0080040b                kp
+                0x0080040f                pal_s
+                0x00800410                as_vstrek_km_old
+                0x00800412                doba_vstreku
+                0x00800414                stopky_cas
+                0x00800418                n_hodnota
+                0x0080041a                as_vstrek_h_old
+                0x0080041e                reset_j
+                0x0080041f                offset_y
+                0x00800420                n_posledna_hodnota
+                0x00800422                max_dojazd
+                0x00800424                ot_cas_old
+                0x00800426                r_old1
+                0x00800428                zrychlenie_rychlost_old
+                0x0080042a                BLACK
+                0x0080042c                YELLOW
+                0x0080042e                cidlo_teploty_motoru
+ COMMON         0x0080042f        0x1 mnu_bc.o
+                0x0080042f                lcd1_stav
+ COMMON         0x00800430       0x1e mnu_develop.o
+                0x00800430                pal
+                0x0080044e                PROVIDE (__bss_end, .)
+                0x0000fa66                __data_load_start = LOADADDR (.data)
+                0x0000fa6e                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x0080044e        0x0
+                0x0080044e                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                0x0080044e                PROVIDE (__noinit_end, .)
+                0x0080044e                _end = .
+                0x0080044e                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                __eeprom_end = .
+
+.stab           0x00000000      0x378
+ *(.stab)
+ .stab          0x00000000      0x378 c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/../../../../avr/lib/avr5/crtm644p.o
+
+.stabstr        0x00000000       0x71
+ *(.stabstr)
+ .stabstr       0x00000000       0x71 c:/winavr-20070525/bin/../lib/gcc/avr/4.1.2/../../../../avr/lib/avr5/crtm644p.o
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment
+ *(.comment)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x400
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x20 main.o
+ .debug_aranges
+                0x00000020       0x20 int_ee.o
+ .debug_aranges
+                0x00000040       0x20 i2c.o
+ .debug_aranges
+                0x00000060       0x20 accelerometer.o
+ .debug_aranges
+                0x00000080       0x20 keys.o
+ .debug_aranges
+                0x000000a0       0x20 delay.o
+ .debug_aranges
+                0x000000c0       0x20 menu.o
+ .debug_aranges
+                0x000000e0       0x20 meranie_spotreby.o
+ .debug_aranges
+                0x00000100       0x20 meranie_vzdialenosti_rychlosti.o
+ .debug_aranges
+                0x00000120       0x20 meranie_teploty.o
+ .debug_aranges
+                0x00000140       0x20 meranie_nadrze.o
+ .debug_aranges
+                0x00000160       0x20 beep.o
+ .debug_aranges
+                0x00000180       0x20 meranie_baterky.o
+ .debug_aranges
+                0x000001a0       0x20 meranie_podsvietenia.o
+ .debug_aranges
+                0x000001c0       0x20 lcd_S65_LS020.o
+ .debug_aranges
+                0x000001e0       0x20 mnu_bc.o
+ .debug_aranges
+                0x00000200       0x20 mnu_max_hodnoty.o
+ .debug_aranges
+                0x00000220       0x20 mnu_nastavenia.o
+ .debug_aranges
+                0x00000240       0x20 input_int.o
+ .debug_aranges
+                0x00000260       0x20 mnu_pretazenie.o
+ .debug_aranges
+                0x00000280       0x20 zrychlenie.o
+ .debug_aranges
+                0x000002a0       0x20 verzia.o
+ .debug_aranges
+                0x000002c0       0x20 vystraha.o
+ .debug_aranges
+                0x000002e0       0x20 eeprom_24Cxx.o
+ .debug_aranges
+                0x00000300       0x20 logo.o
+ .debug_aranges
+                0x00000320       0x20 reset.o
+ .debug_aranges
+                0x00000340       0x20 mnu_motor.o
+ .debug_aranges
+                0x00000360       0x20 mnu_develop.o
+ .debug_aranges
+                0x00000380       0x20 input_char.o
+ .debug_aranges
+                0x000003a0       0x20 mnu_400m.o
+ .debug_aranges
+                0x000003c0       0x20 mnu_stopky.o
+ .debug_aranges
+                0x000003e0       0x20 nadrz.o
+
+.debug_pubnames
+                0x00000000     0xf8a0
+ *(.debug_pubnames)
+ .debug_pubnames
+                0x00000000      0xc43 main.o
+ .debug_pubnames
+                0x00000c43      0x88c int_ee.o
+ .debug_pubnames
+                0x000014cf       0x86 i2c.o
+ .debug_pubnames
+                0x00001555      0x888 accelerometer.o
+ .debug_pubnames
+                0x00001ddd      0x810 keys.o
+ .debug_pubnames
+                0x000025ed       0x39 delay.o
+ .debug_pubnames
+                0x00002626      0x997 menu.o
+ .debug_pubnames
+                0x00002fbd      0x9a8 meranie_spotreby.o
+ .debug_pubnames
+                0x00003965      0x880 meranie_vzdialenosti_rychlosti.o
+ .debug_pubnames
+                0x000041e5      0x88c meranie_teploty.o
+ .debug_pubnames
+                0x00004a71      0x8ed meranie_nadrze.o
+ .debug_pubnames
+                0x0000535e       0x1b beep.o
+ .debug_pubnames
+                0x00005379      0x859 meranie_baterky.o
+ .debug_pubnames
+                0x00005bd2      0x816 meranie_podsvietenia.o
+ .debug_pubnames
+                0x000063e8      0x963 lcd_S65_LS020.o
+ .debug_pubnames
+                0x00006d4b       0x20 font_8_12.o
+ .debug_pubnames
+                0x00006d6b      0xacc mnu_bc.o
+ .debug_pubnames
+                0x00007837      0x81b mnu_max_hodnoty.o
+ .debug_pubnames
+                0x00008052      0xb11 mnu_nastavenia.o
+ .debug_pubnames
+                0x00008b63      0x80c input_int.o
+ .debug_pubnames
+                0x0000936f      0x862 mnu_pretazenie.o
+ .debug_pubnames
+                0x00009bd1      0x913 zrychlenie.o
+ .debug_pubnames
+                0x0000a4e4      0x809 verzia.o
+ .debug_pubnames
+                0x0000aced      0x80b vystraha.o
+ .debug_pubnames
+                0x0000b4f8       0x4b eeprom_24Cxx.o
+ .debug_pubnames
+                0x0000b543      0x807 logo.o
+ .debug_pubnames
+                0x0000bd4a      0x817 reset.o
+ .debug_pubnames
+                0x0000c561      0x841 mnu_motor.o
+ .debug_pubnames
+                0x0000cda2      0x8c2 mnu_develop.o
+ .debug_pubnames
+                0x0000d664      0x80d input_char.o
+ .debug_pubnames
+                0x0000de71      0x911 mnu_400m.o
+ .debug_pubnames
+                0x0000e782       0x21 bw_picture.o
+ .debug_pubnames
+                0x0000e7a3      0x8e6 mnu_stopky.o
+ .debug_pubnames
+                0x0000f089      0x817 nadrz.o
+
+.debug_info     0x00000000    0x1912e
+ *(.debug_info)
+ .debug_info    0x00000000      0xf62 main.o
+ .debug_info    0x00000f62     0x18a9 int_ee.o
+ .debug_info    0x0000280b      0x16a i2c.o
+ .debug_info    0x00002975      0xb23 accelerometer.o
+ .debug_info    0x00003498      0xacb keys.o
+ .debug_info    0x00003f63      0x1c3 delay.o
+ .debug_info    0x00004126      0xc32 menu.o
+ .debug_info    0x00004d58      0xc56 meranie_spotreby.o
+ .debug_info    0x000059ae      0xb36 meranie_vzdialenosti_rychlosti.o
+ .debug_info    0x000064e4      0xba0 meranie_teploty.o
+ .debug_info    0x00007084      0xc4f meranie_nadrze.o
+ .debug_info    0x00007cd3      0x1a1 beep.o
+ .debug_info    0x00007e74      0xaec meranie_baterky.o
+ .debug_info    0x00008960      0xac1 meranie_podsvietenia.o
+ .debug_info    0x00009421     0x187d lcd_S65_LS020.o
+ .debug_info    0x0000ac9e       0xcc font_8_12.o
+ .debug_info    0x0000ad6a     0x14b5 mnu_bc.o
+ .debug_info    0x0000c21f      0xaba mnu_max_hodnoty.o
+ .debug_info    0x0000ccd9     0x19d2 mnu_nastavenia.o
+ .debug_info    0x0000e6ab      0xb6a input_int.o
+ .debug_info    0x0000f215      0xca4 mnu_pretazenie.o
+ .debug_info    0x0000feb9      0xc79 zrychlenie.o
+ .debug_info    0x00010b32      0xda3 verzia.o
+ .debug_info    0x000118d5      0xb58 vystraha.o
+ .debug_info    0x0001242d       0x9c eeprom_24Cxx.o
+ .debug_info    0x000124c9      0xbed logo.o
+ .debug_info    0x000130b6      0xc05 reset.o
+ .debug_info    0x00013cbb      0xd48 mnu_motor.o
+ .debug_info    0x00014a03     0x11a4 mnu_develop.o
+ .debug_info    0x00015ba7      0xae5 input_char.o
+ .debug_info    0x0001668c      0xd11 mnu_400m.o
+ .debug_info    0x0001739d       0xc5 bw_picture.o
+ .debug_info    0x00017462     0x10c7 mnu_stopky.o
+ .debug_info    0x00018529      0xc05 nadrz.o
+ *(.gnu.linkonce.wi.*)
+
+.debug_abbrev   0x00000000     0x1dbb
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000       0xdc main.o
+ .debug_abbrev  0x000000dc      0x21b int_ee.o
+ .debug_abbrev  0x000002f7       0xdf i2c.o
+ .debug_abbrev  0x000003d6       0x99 accelerometer.o
+ .debug_abbrev  0x0000046f       0x9d keys.o
+ .debug_abbrev  0x0000050c       0xe0 delay.o
+ .debug_abbrev  0x000005ec       0x91 menu.o
+ .debug_abbrev  0x0000067d       0x73 meranie_spotreby.o
+ .debug_abbrev  0x000006f0       0x73 meranie_vzdialenosti_rychlosti.o
+ .debug_abbrev  0x00000763       0xa0 meranie_teploty.o
+ .debug_abbrev  0x00000803       0xe6 meranie_nadrze.o
+ .debug_abbrev  0x000008e9       0xda beep.o
+ .debug_abbrev  0x000009c3       0x73 meranie_baterky.o
+ .debug_abbrev  0x00000a36       0x91 meranie_podsvietenia.o
+ .debug_abbrev  0x00000ac7      0x2b1 lcd_S65_LS020.o
+ .debug_abbrev  0x00000d78       0x54 font_8_12.o
+ .debug_abbrev  0x00000dcc      0x175 mnu_bc.o
+ .debug_abbrev  0x00000f41       0x9b mnu_max_hodnoty.o
+ .debug_abbrev  0x00000fdc       0xfe mnu_nastavenia.o
+ .debug_abbrev  0x000010da       0xb3 input_int.o
+ .debug_abbrev  0x0000118d       0xd1 mnu_pretazenie.o
+ .debug_abbrev  0x0000125e       0xa2 zrychlenie.o
+ .debug_abbrev  0x00001300      0x14b verzia.o
+ .debug_abbrev  0x0000144b       0xcb vystraha.o
+ .debug_abbrev  0x00001516       0x69 eeprom_24Cxx.o
+ .debug_abbrev  0x0000157f      0x110 logo.o
+ .debug_abbrev  0x0000168f      0x13c reset.o
+ .debug_abbrev  0x000017cb       0xcf mnu_motor.o
+ .debug_abbrev  0x0000189a      0x1b8 mnu_develop.o
+ .debug_abbrev  0x00001a52       0x95 input_char.o
+ .debug_abbrev  0x00001ae7       0xa2 mnu_400m.o
+ .debug_abbrev  0x00001b89       0x54 bw_picture.o
+ .debug_abbrev  0x00001bdd       0xa2 mnu_stopky.o
+ .debug_abbrev  0x00001c7f      0x13c nadrz.o
+
+.debug_line     0x00000000     0x6656
+ *(.debug_line)
+ .debug_line    0x00000000      0x883 main.o
+ .debug_line    0x00000883      0x55f int_ee.o
+ .debug_line    0x00000de2      0x1a9 i2c.o
+ .debug_line    0x00000f8b      0x1d5 accelerometer.o
+ .debug_line    0x00001160       0xdf keys.o
+ .debug_line    0x0000123f      0x105 delay.o
+ .debug_line    0x00001344      0x1d5 menu.o
+ .debug_line    0x00001519      0x275 meranie_spotreby.o
+ .debug_line    0x0000178e      0x18d meranie_vzdialenosti_rychlosti.o
+ .debug_line    0x0000191b      0x1c5 meranie_teploty.o
+ .debug_line    0x00001ae0      0x286 meranie_nadrze.o
+ .debug_line    0x00001d66      0x104 beep.o
+ .debug_line    0x00001e6a      0x154 meranie_baterky.o
+ .debug_line    0x00001fbe      0x169 meranie_podsvietenia.o
+ .debug_line    0x00002127      0xb41 lcd_S65_LS020.o
+ .debug_line    0x00002c68       0xe5 font_8_12.o
+ .debug_line    0x00002d4d      0x7eb mnu_bc.o
+ .debug_line    0x00003538       0xea mnu_max_hodnoty.o
+ .debug_line    0x00003622      0xb5b mnu_nastavenia.o
+ .debug_line    0x0000417d      0x29b input_int.o
+ .debug_line    0x00004418      0x2de mnu_pretazenie.o
+ .debug_line    0x000046f6      0x253 zrychlenie.o
+ .debug_line    0x00004949      0x1b3 verzia.o
+ .debug_line    0x00004afc      0x1b6 vystraha.o
+ .debug_line    0x00004cb2       0xe0 eeprom_24Cxx.o
+ .debug_line    0x00004d92      0x1e6 logo.o
+ .debug_line    0x00004f78      0x1a7 reset.o
+ .debug_line    0x0000511f      0x450 mnu_motor.o
+ .debug_line    0x0000556f      0x710 mnu_develop.o
+ .debug_line    0x00005c7f      0x118 input_char.o
+ .debug_line    0x00005d97      0x25f mnu_400m.o
+ .debug_line    0x00005ff6       0xe6 bw_picture.o
+ .debug_line    0x000060dc      0x403 mnu_stopky.o
+ .debug_line    0x000064df      0x177 nadrz.o
+
+.debug_frame    0x00000000      0xaf0
+ *(.debug_frame)
+ .debug_frame   0x00000000       0xd0 main.o
+ .debug_frame   0x000000d0       0x80 int_ee.o
+ .debug_frame   0x00000150       0x90 i2c.o
+ .debug_frame   0x000001e0       0x50 accelerometer.o
+ .debug_frame   0x00000230       0x30 keys.o
+ .debug_frame   0x00000260       0x40 delay.o
+ .debug_frame   0x000002a0       0x30 menu.o
+ .debug_frame   0x000002d0       0x30 meranie_spotreby.o
+ .debug_frame   0x00000300       0x30 meranie_vzdialenosti_rychlosti.o
+ .debug_frame   0x00000330       0x30 meranie_teploty.o
+ .debug_frame   0x00000360       0x50 meranie_nadrze.o
+ .debug_frame   0x000003b0       0x20 beep.o
+ .debug_frame   0x000003d0       0x20 meranie_baterky.o
+ .debug_frame   0x000003f0       0x20 meranie_podsvietenia.o
+ .debug_frame   0x00000410      0x130 lcd_S65_LS020.o
+ .debug_frame   0x00000540       0xf0 mnu_bc.o
+ .debug_frame   0x00000630       0x30 mnu_max_hodnoty.o
+ .debug_frame   0x00000660      0x210 mnu_nastavenia.o
+ .debug_frame   0x00000870       0x20 input_int.o
+ .debug_frame   0x00000890       0x30 mnu_pretazenie.o
+ .debug_frame   0x000008c0       0x30 zrychlenie.o
+ .debug_frame   0x000008f0       0x20 verzia.o
+ .debug_frame   0x00000910       0x20 vystraha.o
+ .debug_frame   0x00000930       0x30 eeprom_24Cxx.o
+ .debug_frame   0x00000960       0x20 logo.o
+ .debug_frame   0x00000980       0x20 reset.o
+ .debug_frame   0x000009a0       0x40 mnu_motor.o
+ .debug_frame   0x000009e0       0x70 mnu_develop.o
+ .debug_frame   0x00000a50       0x20 input_char.o
+ .debug_frame   0x00000a70       0x30 mnu_400m.o
+ .debug_frame   0x00000aa0       0x30 mnu_stopky.o
+ .debug_frame   0x00000ad0       0x20 nadrz.o
+
+.debug_str      0x00000000     0x15b2
+ *(.debug_str)
+ .debug_str     0x00000000      0x8f0 main.o
+                                0x9f7 (size before relaxing)
+ .debug_str     0x000008f0       0xfc int_ee.o
+                                0x7f8 (size before relaxing)
+ .debug_str     0x000009ec       0x65 i2c.o
+                                0x12a (size before relaxing)
+ .debug_str     0x00000a51       0x68 accelerometer.o
+                                0x700 (size before relaxing)
+ .debug_str     0x00000ab9       0x2c keys.o
+                                0x694 (size before relaxing)
+ .debug_str     0x00000ae5       0x60 delay.o
+                                0x129 (size before relaxing)
+ .debug_str     0x00000b45       0x28 menu.o
+                                0x7d3 (size before relaxing)
+ .debug_str     0x00000b6d       0x2c meranie_spotreby.o
+                                0x7cd (size before relaxing)
+ .debug_str     0x00000b99       0x4c meranie_vzdialenosti_rychlosti.o
+                                0x6f3 (size before relaxing)
+ .debug_str     0x00000be5       0x46 meranie_teploty.o
+                                0x6f6 (size before relaxing)
+ .debug_str     0x00000c2b       0x6f meranie_nadrze.o
+                                0x750 (size before relaxing)
+ .debug_str     0x00000c9a       0x2f beep.o
+                                0x132 (size before relaxing)
+ .debug_str     0x00000cc9       0x25 meranie_baterky.o
+                                0x6cd (size before relaxing)
+ .debug_str     0x00000cee       0x2f meranie_podsvietenia.o
+                                0x69f (size before relaxing)
+ .debug_str     0x00000d1d      0x1de lcd_S65_LS020.o
+                                0x8e5 (size before relaxing)
+ .debug_str     0x00000efb        0xf font_8_12.o
+                                0x10c (size before relaxing)
+ .debug_str     0x00000f0a      0x10e mnu_bc.o
+                                0x909 (size before relaxing)
+ .debug_str     0x00001018       0x37 mnu_max_hodnoty.o
+                                0x69f (size before relaxing)
+ .debug_str     0x0000104f      0x28c mnu_nastavenia.o
+                                0x96d (size before relaxing)
+ .debug_str     0x000012db       0x3e input_int.o
+                                0x6b4 (size before relaxing)
+ .debug_str     0x00001319       0x40 mnu_pretazenie.o
+                                0x726 (size before relaxing)
+ .debug_str     0x00001359       0x1f zrychlenie.o
+                                0x785 (size before relaxing)
+ .debug_str     0x00001378       0x1e verzia.o
+                                0x725 (size before relaxing)
+ .debug_str     0x00001396       0x31 vystraha.o
+                                0x6b8 (size before relaxing)
+ .debug_str     0x000013c7       0x4a eeprom_24Cxx.o
+                                 0xbe (size before relaxing)
+ .debug_str     0x00001411        0xf logo.o
+                                0x6ed (size before relaxing)
+ .debug_str     0x00001420       0x1c reset.o
+                                0x706 (size before relaxing)
+ .debug_str     0x0000143c       0x7d mnu_motor.o
+                                0x72e (size before relaxing)
+ .debug_str     0x000014b9       0x79 mnu_develop.o
+                                0x7ad (size before relaxing)
+ .debug_str     0x00001532       0x1b input_char.o
+                                0x696 (size before relaxing)
+ .debug_str     0x0000154d       0x24 mnu_400m.o
+                                0x781 (size before relaxing)
+ .debug_str     0x00001571       0x10 bw_picture.o
+                                0x10e (size before relaxing)
+ .debug_str     0x00001581       0x1b mnu_stopky.o
+                                0x758 (size before relaxing)
+ .debug_str     0x0000159c       0x16 nadrz.o
+                                0x706 (size before relaxing)
+
+.debug_loc      0x00000000     0x3932
+ *(.debug_loc)
+ .debug_loc     0x00000000       0x1e main.o
+ .debug_loc     0x0000001e      0x90f int_ee.o
+ .debug_loc     0x0000092d       0x39 i2c.o
+ .debug_loc     0x00000966       0x1e delay.o
+ .debug_loc     0x00000984       0x1e menu.o
+ .debug_loc     0x000009a2       0xde meranie_teploty.o
+ .debug_loc     0x00000a80       0xa0 meranie_nadrze.o
+ .debug_loc     0x00000b20       0xe5 beep.o
+ .debug_loc     0x00000c05      0x126 meranie_podsvietenia.o
+ .debug_loc     0x00000d2b     0x1088 lcd_S65_LS020.o
+ .debug_loc     0x00001db3      0x421 mnu_bc.o
+ .debug_loc     0x000021d4      0xa72 mnu_nastavenia.o
+ .debug_loc     0x00002c46      0x3cf input_int.o
+ .debug_loc     0x00003015      0x173 mnu_pretazenie.o
+ .debug_loc     0x00003188       0x86 verzia.o
+ .debug_loc     0x0000320e      0x240 vystraha.o
+ .debug_loc     0x0000344e       0x6e eeprom_24Cxx.o
+ .debug_loc     0x000034bc       0xb3 logo.o
+ .debug_loc     0x0000356f       0x18 reset.o
+ .debug_loc     0x00003587      0x1c2 mnu_motor.o
+ .debug_loc     0x00003749      0x159 mnu_develop.o
+ .debug_loc     0x000038a2       0x78 input_char.o
+ .debug_loc     0x0000391a       0x18 nadrz.o
+
+.debug_macinfo
+ *(.debug_macinfo)
+OUTPUT(BC1.elf elf32-avr)
+LOAD linker stubs
